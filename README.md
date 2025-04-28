@@ -9,8 +9,9 @@
   <ul>
     <li>HaarCascadeClassifier for face extraction</li>
     <li>DeepFace model for face comparision</li>
-    <li>VGG16 backbone used for face feature extraction</li>
     <li>EasyOCR for text extraction</li>
+    <li>VGG16 backbone used for face feature extraction</li>
+    <img src="https://github.com/Parth-D3/CONSTRUCTION_MONITORING/blob/main/util_images/vgg16_architecture.jpg">
   </ul>
 </ol>
 
