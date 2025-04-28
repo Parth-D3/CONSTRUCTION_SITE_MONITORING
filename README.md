@@ -5,5 +5,12 @@
     <b>OVERVIEW DIAGRAM</b><br>
     <img src="https://github.com/Parth-D3/CONSTRUCTION_MONITORING/blob/main/util_images/PERSONNEL_ID.png">
   </li>
+  <b>KEY POINTS</b>
+  <ul>
+    <li>HaarCascadeClassifier for face extraction</li>
+    <li>DeepFace model for face comparision</li>
+    <li>VGG16 backbone used for face feature extraction</li>
+    <li>EasyOCR for text extraction</li>
+  </ul>
 </ol>
 
