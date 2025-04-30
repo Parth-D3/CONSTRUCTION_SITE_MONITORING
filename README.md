@@ -15,8 +15,7 @@
   </ul>
   </li>
   <li><b>Fire Detection:</b> Detect fires on site in case of accidents or electric short circuit malfunctions. Used fine-tuned YOLOv8 model for fire detection.<br>
-    <img src="https://github.com/Parth-D3/CONSTRUCTION_MONITORING/blob/main/util_images/vgg16_architecture.jpg">
-    <img src="https://github.com/Parth-D3/CONSTRUCTION_MONITORING/blob/main/util_images/vgg16_architecture.jpg">
+    <img src="https://github.com/Parth-D3/CONSTRUCTION_SITE_MONITORING/blob/main/util_images/detected_fire.jpeg">
   </li>
 </ol>
 
