@@ -20,8 +20,9 @@
 
   <li><b>Revolving Meter Monitoring:</b> Read meter readings from the revolving meter using fine-tuned YOLOv8 model. Compare against a threshold to monitor usage of resources like water, gases, etc.<br>
     <p align="center">
-  <img src="path/to/image1.png" alt="Image 1" width="45%" />
-  <img src="path/to/image2.png" alt="Image 2" width="45%" />
+  <img src="https://github.com/Parth-D3/CONSTRUCTION_SITE_MONITORING/blob/main/util_images/water_meter_original.jpeg" alt="Image 1" width="45%" />
+  <img src="https://github.com/Parth-D3/CONSTRUCTION_SITE_MONITORING/blob/main/util_images/water_meter_detected.jpeg" alt="Image 2" width="45%" />
+  
 </p>
 
   </li>
